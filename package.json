@@ -15,6 +15,12 @@
     "tools",
     "function"
   ],
+  "files": [
+    "dist",
+    "lib",
+    "es",
+    "package.json"
+  ],
   "author": "copy-left",
   "license": "ISC",
   "homepage": "https://github.com/H-copy/hTools",
