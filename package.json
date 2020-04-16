@@ -1,0 +1,19 @@
+{
+  "name": "h-tools",
+  "version": "0.0.1",
+  "description": "函数工具库",
+  "main": "./lib/index.js",
+  "module": "./es/index.js",
+  "scripts": {
+    "build": "father build"
+  },
+  "keywords": [
+    "tools",
+    "function"
+  ],
+  "author": "copy-left",
+  "license": "ISC",
+  "devDependencies": {
+    "father": "^2.29.2"
+  }
+}
