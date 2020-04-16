@@ -4,6 +4,10 @@
   "description": "函数工具库",
   "main": "./lib/index.js",
   "module": "./es/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H-copy/hTools"
+  },
   "scripts": {
     "build": "father build"
   },
@@ -13,6 +17,7 @@
   ],
   "author": "copy-left",
   "license": "ISC",
+  "homepage": "https://github.com/H-copy/hTools",
   "devDependencies": {
     "father": "^2.29.2"
   }
