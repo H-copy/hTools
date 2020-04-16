@@ -1,5 +1,5 @@
 {
-  "name": "h-tools",
+  "name": "left-f-tools",
   "version": "0.0.1",
   "description": "函数工具库",
   "main": "./lib/index.js",
