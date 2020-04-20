@@ -5,7 +5,5 @@
  */
 
 export default function toStyleStr(style) {
-
     return Object.entries(style).reduce((acc, [key, value]) => `${acc}${key}:${value};`, '')
-
 }

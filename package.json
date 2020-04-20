@@ -21,6 +21,16 @@
     "es",
     "package.json"
   ],
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
   "author": "copy-left",
   "license": "ISC",
   "homepage": "https://github.com/H-copy/hTools",
