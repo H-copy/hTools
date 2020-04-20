@@ -36,7 +36,29 @@ const type = new Enum([
 
 ### Functions
 
-- 
+- asyncFormat
+
+- countMap
+
+- Enum
+
+- objFilter
+
+- branch
+
+- dateFormat
+
+- pipe
+
+- chunkByString
+
+- doNothing
+
+- joinUrlParams
+
+- toStyleStr
+
+  
 
 
 
